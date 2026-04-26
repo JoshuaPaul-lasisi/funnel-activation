@@ -19,3 +19,9 @@ lifestyle shaaaa...
 So I'll be doing the majority of it in BigQuery until I can't use it anymore, cos
 I still need visualizations. We'll see how it goes.
 
+### Query One
+The first query was targeted at the tables in the google analytics sample dataset.
+ON examining it, we have the major google-ecommerce-dataset-table, then we have the tables for the daily visits and the daily total visits. Apart from these three, the 
+session tables for each day from August !st, 2016 till July 19th, 2017.
+
+But that's just at a glance. We still need to study it more...
