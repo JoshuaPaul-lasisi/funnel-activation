@@ -30,11 +30,38 @@ But that's just at a glance. We still need to study it more...
 05.05.2026
 ---
 To move forward in this project I intend to answer the project framing questions:
-1. What is th eproduct?
+1. What is the product?
 2. Who is the user?
 3. What is the core value action?
-4. What does the busines want more of?
+4. What does the business want more of?
 5. What is this analysis trying to decide?
 
 These are the core questions I intend to answer first and build from.
 It requires me to run some queries on BigQuery though.
+
+Now, in answering the first question I found thi:
+-- The google merchandise store provides google merch as its
+-- products. They span from hoodies to shirts to caps and even 
+-- stickers. So it's a large variety of products with the
+-- commonality being the GOOGLE branding on al of them. So in
+-- a nutshell we could say its a one-stop shop for GOOGLE-branded
+-- stuff and only that. So it's not in any competition so to say
+-- when we speak about another source of getting what we sell here.
+
+-- Also the store runs on direct purchase system from the 
+-- online store. It's a view-cart-checkout system. You could say 
+-- it's DIY. 
+-- Based on observation the top guys based on revenue are the 
+-- zip hoodie, water bottles, and journal. There's more tho and its for later.
+
+For the second question, we find:
+-- we have 714000+ distinct IDs, basically uers, coming in with 
+-- sessions being on the upside of 903,000 which is 1.26 
+-- sessions per user on average. This means we generally have multiple sessions 
+-- per user which means they decide in multiple sessions and 
+-- not in each and every session they have. We can suspect that the
+-- user is the decision maker here. The next question is how many of 
+-- the users make a purchase, how many sessions it takes for the users
+-- to buy, and we can explore the user journey to see where we need to 
+-- improve first to give us what we want
+
