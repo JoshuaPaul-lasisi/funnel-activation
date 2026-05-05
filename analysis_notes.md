@@ -25,3 +25,16 @@ ON examining it, we have the major google-ecommerce-dataset-table, then we have 
 session tables for each day from August !st, 2016 till July 19th, 2017.
 
 But that's just at a glance. We still need to study it more...
+
+
+05.05.2026
+---
+To move forward in this project I intend to answer the project framing questions:
+1. What is th eproduct?
+2. Who is the user?
+3. What is the core value action?
+4. What does the busines want more of?
+5. What is this analysis trying to decide?
+
+These are the core questions I intend to answer first and build from.
+It requires me to run some queries on BigQuery though.
