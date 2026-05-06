@@ -120,3 +120,17 @@ FOr the fifth question:
 
 At this point we are done with the PROJECT FRAMING SESSION and can now 
 move with understanding towards the main goal.
+
+The first step is creating our funnel:
+All sessions(903,653)
+|
+Viewed product
+|
+Added to cart
+|
+Entered checkout
+|
+Purchased (11,552)
+
+We'll need to get both the absolute amount and the percentage with respect to 
+the previous stage. The stage with the steepest drop is our target.
