@@ -103,3 +103,17 @@ For the fourth question:
 
 -- We can therefore conclude that making more of the users into purchasers
 -- (conversion rate) will give us more of what we need: more revenue
+
+FOr the fifth question:
+-- We observe that since the goal of the analysis is to increase revenue
+-- we need to ascertain the points where the leaks in the user journey are
+-- and plug those.
+
+-- To do that we will find the biggest drop-off point first, segment it,
+-- find out what the behavioral differences between purchasers and 
+-- non-purchasers, then the differences between one-time buyers and repeat
+-- buyers so we can maximize revenue.
+
+-- Explicitly stated, the decision this analysis will inform is where we 
+-- should focus optimization efforts to convert visitors to purchasers 
+-- and then into repeat purchasers.
