@@ -117,3 +117,6 @@ FOr the fifth question:
 -- Explicitly stated, the decision this analysis will inform is where we 
 -- should focus optimization efforts to convert visitors to purchasers 
 -- and then into repeat purchasers.
+
+At this point we are done with the PROJECT FRAMING SESSION and can now 
+move with understanding towards the main goal.
