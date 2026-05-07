@@ -134,3 +134,20 @@ Purchased (11,552)
 
 We'll need to get both the absolute amount and the percentage with respect to 
 the previous stage. The stage with the steepest drop is our target.
+
+Upon building the funnel this is what I found:
+Row	step	sessions	pct_of_prev
+1	1. All sessions	886303	1.0
+2	2. Product view	123692	0.14
+3	3. Add to cart	50022	0.4
+4	4. Checkout	22371	0.45
+5	5. Purchase	11549	0.52
+
+...which clearly shows that our largest drop-off is pre-product_viewership. So 
+its a traffic quality issue. The kind of people we're attracting are not getting
+value from us. The percentage of visitors that are interested in what we have 
+among the ones we have attracted are low.
+
+Such a case requires that we segment them so we can find where the wrong and 
+right customers are coming from. We should have a clearer view and be able
+to make better decisions with that.
