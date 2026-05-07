@@ -28,6 +28,7 @@ But that's just at a glance. We still need to study it more...
 
 
 05.05.2026
+### Project Framing
 ---
 To move forward in this project I intend to answer the project framing questions:
 1. What is the product?
@@ -118,6 +119,7 @@ FOr the fifth question:
 -- should focus optimization efforts to convert visitors to purchasers 
 -- and then into repeat purchasers.
 
+### Funnel 
 At this point we are done with the PROJECT FRAMING SESSION and can now 
 move with understanding towards the main goal.
 
@@ -151,3 +153,9 @@ among the ones we have attracted are low.
 Such a case requires that we segment them so we can find where the wrong and 
 right customers are coming from. We should have a clearer view and be able
 to make better decisions with that.
+
+### Segmentation
+Now we know where the big dip is. And since we know where it is we can also suspect the
+source, which should first be the traffic source (sources our visitors come from) and 
+segment this to see which source is doing well,, doing bad, mediocre, unneeded etc.
+
