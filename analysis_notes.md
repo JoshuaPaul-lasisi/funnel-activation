@@ -159,3 +159,16 @@ Now we know where the big dip is. And since we know where it is we can also susp
 source, which should first be the traffic source (sources our visitors come from) and 
 segment this to see which source is doing well,, doing bad, mediocre, unneeded etc.
 
+In running the traffic segmentation I came across 275 sources. Then I ordered them by
+how many entrant users they bring in and found that some are bringing quite a small
+amount. And amongst those bringing in large amounts, some are converting a very
+small percentage to product viewers.
+
+To that end, I think that since we already know where the largest drop-off is, we don't 
+need to look at the carter to purchasers. We just need to look at the sessions and 
+viewers and look at what percentage of each source gets to viewership. Then for those 
+that are less than 10% or something we can move the notion to stop spending money in those 
+areas.
+
+While that is being done, we should also discard all sources with minimal entrants from 
+the onset.
