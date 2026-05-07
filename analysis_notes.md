@@ -172,3 +172,25 @@ areas.
 
 While that is being done, we should also discard all sources with minimal entrants from 
 the onset.
+
+Upon segmenting by traffic source and using  below 10% as the tag for low quality, above 60%
+as high quality and the rest as mid quality I initially got some high quality sources
+but they were rubbish cos immediately I filtered by removing all sources with less than 
+100 entrants they all disappeared.
+
+Among the low quality sources, there were some with quite a large amount of entrants:
+
+m.facebook.com
+t.co
+analytics.google.com
+reddit.com
+quora.com
+youtube.com
+baidu
+
+...and they look like paid ads. 
+
+Apparently, we are wasting money by either having ads there at all or the placement
+and value proposition is not fitting. It's gotta be one of them.
+
+I still have to chek the device and geographic segmentations so I know if the device type has any effect or there are countries that patronize us more than others.
