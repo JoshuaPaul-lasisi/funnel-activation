@@ -1,0 +1,122 @@
+country,sessions,viewers,product_view_rate,country_quality
+United States,361091,79501,22.02,mid quality
+Canada,25790,5306,20.57,mid quality
+El Salvador,393,69,17.56,mid quality
+Puerto Rico,731,121,16.55,mid quality
+Paraguay,131,21,16.03,mid quality
+Venezuela,2128,330,15.51,mid quality
+Nicaragua,138,21,15.22,mid quality
+Sri Lanka,1467,223,15.2,mid quality
+Guatemala,581,88,15.15,mid quality
+Jamaica,153,23,15.03,mid quality
+Myanmar (Burma),196,29,14.8,mid quality
+Luxembourg,155,22,14.19,mid quality
+Trinidad & Tobago,164,22,13.41,mid quality
+Honduras,188,25,13.3,mid quality
+Panama,474,62,13.08,mid quality
+Singapore,7063,894,12.66,mid quality
+Costa Rica,553,70,12.66,mid quality
+Australia,12677,1592,12.56,mid quality
+New Zealand,2192,267,12.18,mid quality
+Finland,958,115,12.0,mid quality
+Switzerland,4416,526,11.91,mid quality
+Hong Kong,4707,557,11.83,mid quality
+Réunion,145,17,11.72,mid quality
+Denmark,3313,367,11.08,mid quality
+Taiwan,12727,1387,10.9,mid quality
+Uruguay,617,67,10.86,mid quality
+Norway,2244,242,10.78,mid quality
+Japan,19641,2051,10.44,mid quality
+France,15722,1632,10.38,mid quality
+Belgium,4422,442,10.0,mid quality
+Sweden,5301,522,9.85,low quality
+India,50747,4929,9.71,low quality
+Estonia,654,63,9.63,low quality
+Netherlands,11429,1072,9.38,low quality
+Bahrain,256,24,9.38,low quality
+Cyprus,463,43,9.29,low quality
+South Korea,5200,480,9.23,low quality
+Ireland,6479,587,9.06,low quality
+Israel,5548,502,9.05,low quality
+Italy,11307,1016,8.99,low quality
+Slovenia,728,65,8.93,low quality
+Germany,19938,1780,8.93,low quality
+Portugal,2368,207,8.74,low quality
+Colombia,4858,423,8.71,low quality
+Austria,2780,242,8.71,low quality
+Lithuania,846,73,8.63,low quality
+Malta,174,15,8.62,low quality
+Chile,1949,167,8.57,low quality
+United Kingdom,37289,3163,8.48,low quality
+Croatia,1382,116,8.39,low quality
+Dominican Republic,934,76,8.14,low quality
+Laos,161,13,8.07,low quality
+South Africa,2096,169,8.06,low quality
+Spain,11542,923,8.0,low quality
+Greece,3362,269,8.0,low quality
+Ethiopia,138,11,7.97,low quality
+Kuwait,519,41,7.9,low quality
+Hungary,2508,198,7.89,low quality
+Macau,115,9,7.83,low quality
+Slovakia,1787,135,7.55,low quality
+Philippines,9227,696,7.54,low quality
+Czechia,4239,319,7.53,low quality
+Ukraine,5573,412,7.39,low quality
+Poland,9590,705,7.35,low quality
+(not set),1464,106,7.24,low quality
+Nepal,211,15,7.11,low quality
+Iceland,141,10,7.09,low quality
+Argentina,4991,346,6.93,low quality
+Kenya,771,53,6.87,low quality
+Palestine,190,13,6.84,low quality
+Latvia,705,48,6.81,low quality
+Pakistan,4003,271,6.77,low quality
+Tanzania,260,17,6.54,low quality
+Malaysia,6397,417,6.52,low quality
+Lebanon,398,25,6.28,low quality
+Mexico,13212,829,6.27,low quality
+Belarus,976,61,6.25,low quality
+Bangladesh,2293,143,6.24,low quality
+Romania,6352,388,6.11,low quality
+Egypt,2341,143,6.11,low quality
+Indonesia,9258,562,6.07,low quality
+Bulgaria,2046,123,6.01,low quality
+Bolivia,318,19,5.97,low quality
+Nigeria,1443,83,5.75,low quality
+China,3868,221,5.71,low quality
+Montenegro,110,6,5.45,low quality
+Qatar,534,28,5.24,low quality
+United Arab Emirates,3134,162,5.17,low quality
+Ecuador,1251,64,5.12,low quality
+Brazil,19736,995,5.04,low quality
+Moldova,319,16,5.02,low quality
+Russia,11641,570,4.9,low quality
+Cambodia,522,25,4.79,low quality
+Serbia,1872,88,4.7,low quality
+Saudi Arabia,3130,144,4.6,low quality
+Morocco,1905,87,4.57,low quality
+Jordan,858,37,4.31,low quality
+Peru,5496,236,4.29,low quality
+Armenia,280,12,4.29,low quality
+Ghana,380,16,4.21,low quality
+Iraq,710,29,4.08,low quality
+Georgia,886,35,3.95,low quality
+Kazakhstan,968,37,3.82,low quality
+Kyrgyzstan,134,5,3.73,low quality
+Uganda,166,6,3.61,low quality
+Oman,305,11,3.61,low quality
+Albania,547,19,3.47,low quality
+Azerbaijan,568,19,3.35,low quality
+Kosovo,432,14,3.24,low quality
+Macedonia (FYROM),845,25,2.96,low quality
+Algeria,2053,58,2.83,low quality
+Bosnia & Herzegovina,902,25,2.77,low quality
+Senegal,151,4,2.65,low quality
+Thailand,20068,517,2.58,low quality
+Côte d’Ivoire,320,8,2.5,low quality
+Turkey,20498,483,2.36,low quality
+Tunisia,1194,23,1.93,low quality
+Cameroon,173,3,1.73,low quality
+Vietnam,24522,362,1.48,low quality
+Congo - Kinshasa,103,1,0.97,low quality
+Mongolia,241,2,0.83,low quality
