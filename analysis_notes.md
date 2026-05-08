@@ -173,8 +173,8 @@ areas.
 While that is being done, we should also discard all sources with minimal entrants from 
 the onset.
 
-Upon segmenting by traffic source and using  below 10% as the tag for low quality, above 60%
-as high quality and the rest as mid quality I initially got some high quality sources
+Upon segmenting by traffic source and using  below 10% as the tag for low quality, above 
+60% as high quality and the rest as mid quality I initially got some high quality sources
 but they were rubbish cos immediately I filtered by removing all sources with less than 
 100 entrants they all disappeared.
 
@@ -193,4 +193,14 @@ baidu
 Apparently, we are wasting money by either having ads there at all or the placement
 and value proposition is not fitting. It's gotta be one of them.
 
-I still have to chek the device and geographic segmentations so I know if the device type has any effect or there are countries that patronize us more than others.
+I still have to check the device and geographic segmentation so I know if the device type 
+has any effect or there are countries that patronize us more than others.
+
+After running the device and country segmentations, I realized that all devices revolve around the same view rate while only 30 countries out of 121 countries that passed the entrant amount screening are above low quality (pardon the mistake of having traffic_qaulity on all of em. I have corrected it in the query). Meanwhile, the problem persists, WE HAVE NO HIGH QUALITY devices OR countries.
+
+This brings us to a sort of realization: What if we are not giving the kind of value that interests that many people? We have the Google branding on everything. Why would anyone need to go out of their way to get something google branded if it does not make a statement of some sort to them and in society? The shirts can be worn without the branding. The hoodies, our top seller, works whether the branding is on it or not.
+
+So we do need to be realistic about our expectations. We might have no competition in that we sell google branded merch, but we do have competition in our name making a statement in the merch world or sorts. Louis Vuitton, Gucci and the likes have bigger names that when their names are worn on stuff it makes a kind of statement.
+
+I reckon we either find the statement we want to make and focus on that, or settle for what we have. The probability that bringing in more people will increase sales is lower than  the probability of it reducing our view_rate value (vaguely speaking)
+
