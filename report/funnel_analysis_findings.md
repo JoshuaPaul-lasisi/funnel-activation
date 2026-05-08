@@ -1,6 +1,6 @@
 # Google Merchandise Store — Funnel & Activation Analysis
 **Dataset:** Google Analytics Sample (BigQuery Public Data)
-**Analyst:** Joshua Paul-lasisi
+**Analyst:** Joshua Paul Lasisi
 **Period Covered:** August 2016 – July 2017
 **Tool:** Google BigQuery (SQL) + Python (visualisation)
 
