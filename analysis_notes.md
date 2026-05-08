@@ -210,3 +210,5 @@ I ran the query for the product desirability and noticed that there were a lot o
 
 THis clearly proves that what we have is not that interesting to people.
 
+### Other notes
+Since I did everything in BigQuery I need to copy all the queries into a folder in this repo.

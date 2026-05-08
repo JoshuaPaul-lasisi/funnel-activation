@@ -1,0 +1,19 @@
+SELECT
+    fullVisitorId,
+    visitId,
+    visitNumber,
+    visitStartTime,
+    date,
+    totals.visits,
+    totals.hits,
+    totals.pageviews,
+    totals.transactions,
+    totals.totalTransactionRevenue,
+    trafficSource.source,
+    trafficSource.medium,
+    device.deviceCategory,
+    geoNetwork.country
+FROM
+    `bigquery-public-data.google_analytics_sample.ga_sessions_20170801`
+LIMIT
+    5
