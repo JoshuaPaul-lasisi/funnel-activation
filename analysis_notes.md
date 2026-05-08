@@ -204,3 +204,7 @@ So we do need to be realistic about our expectations. We might have no competiti
 
 I reckon we either find the statement we want to make and focus on that, or settle for what we have. The probability that bringing in more people will increase sales is lower than  the probability of it reducing our view_rate value (vaguely speaking)
 
+I ran the query for the product desirability and noticed that there were a lot of nulls in the viewership. So I removed that and had 490 products left. In doing that I had only one product of mid desirableness but I also saw that I had some products of less than 1% view rate, so I removed those too cos that's just rubbish.
+
+THis clearly proves that what we have is not that interesting to people.
+
