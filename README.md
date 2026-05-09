@@ -175,4 +175,4 @@ The notebook reads from the `data/` folder — run BigQuery queries and export C
 
 **Joshua Paul Lasisi**
 Product Analyst | Data Analyst
-[LinkedIn](https://linkedin.com/in/joshuapaul-lasisi) | [GitHub](https://github.com/JoshuaF) | [Portfolio](https://sky-knight-aae.notion.site/Joshua-Paul-lasisi-Data-Scientist-f2d9b50cd28240c49d267cc4dec5b73c)
+[LinkedIn](https://linkedin.com/in/joshuapaul-lasisi) | [GitHub](https://github.com/JoshuaF) | [Portfolio](https://sky-knight-aae.notion.site/Joshua-Paul-lasisi-35bcf45b658580568f9df2f33bdd7cb4)
